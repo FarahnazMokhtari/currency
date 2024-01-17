@@ -1,0 +1,30 @@
+.background-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  .inputCountry{
+    border-radius: 10px;
+    border: 1px solid  rgb(8, 8, 95);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0.3, 0.3);
+    height: 2rem;
+    width: 20rem;
+    padding: 8px;
+  }
+  
+  .btnSearch{
+    background-color: rgb(8, 8, 95);
+    color: aliceblue;
+    border-radius: 10px;
+    width: 7rem;
+    border: 1px solid rgb(231, 132, 3);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 1rem;
+  }
+  .resultText{
+    text-shadow: 10px;
+    font-weight: bold;
+    
+  }
